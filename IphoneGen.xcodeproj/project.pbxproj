@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		526085271FEE221F00BE39AE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085261FEE221F00BE39AE /* main.m */; };
+		5260852F1FEE223300BE39AE /* Iphone.m in Sources */ = {isa = PBXBuildFile; fileRef = 5260852E1FEE223300BE39AE /* Iphone.m */; };
+		526085321FEE227D00BE39AE /* Iphone3G.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085311FEE227D00BE39AE /* Iphone3G.m */; };
+		526085351FEE22C100BE39AE /* Iphone3GS.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085341FEE22C100BE39AE /* Iphone3GS.m */; };
+		526085381FEE254400BE39AE /* Iphone4.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085371FEE254400BE39AE /* Iphone4.m */; };
+		5260853B1FEE26A000BE39AE /* Iphone4S.m in Sources */ = {isa = PBXBuildFile; fileRef = 5260853A1FEE26A000BE39AE /* Iphone4S.m */; };
+		5260853E1FEE26D900BE39AE /* Iphone5.m in Sources */ = {isa = PBXBuildFile; fileRef = 5260853D1FEE26D900BE39AE /* Iphone5.m */; };
+		526085411FEE270600BE39AE /* Iphone5S.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085401FEE270600BE39AE /* Iphone5S.m */; };
+		526085441FEE272700BE39AE /* Iphone5C.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085431FEE272700BE39AE /* Iphone5C.m */; };
+		5260854A1FEE28FC00BE39AE /* Iphone6.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085491FEE28FC00BE39AE /* Iphone6.m */; };
+		5260854D1FEE294A00BE39AE /* Iphone6S.m in Sources */ = {isa = PBXBuildFile; fileRef = 5260854C1FEE294A00BE39AE /* Iphone6S.m */; };
+		526085531FEE29A100BE39AE /* Iphone7.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085521FEE29A100BE39AE /* Iphone7.m */; };
+		526085561FEE29B500BE39AE /* IphoneSE.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085551FEE29B500BE39AE /* IphoneSE.m */; };
+		5260855C1FEE2A4600BE39AE /* Iphone6Plus.m in Sources */ = {isa = PBXBuildFile; fileRef = 5260855B1FEE2A4600BE39AE /* Iphone6Plus.m */; };
+		5260855F1FEE2A8300BE39AE /* Iphone6SPlus.m in Sources */ = {isa = PBXBuildFile; fileRef = 5260855E1FEE2A8300BE39AE /* Iphone6SPlus.m */; };
+		526085621FEE2AC100BE39AE /* Iphone7Plus.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085611FEE2AC100BE39AE /* Iphone7Plus.m */; };
+		526085651FEE2B1300BE39AE /* Iphone8Plus.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085641FEE2B1300BE39AE /* Iphone8Plus.m */; };
+		526085681FEE2B4C00BE39AE /* Iphone8.m in Sources */ = {isa = PBXBuildFile; fileRef = 526085671FEE2B4C00BE39AE /* Iphone8.m */; };
+		5260856B1FEE2B8C00BE39AE /* IphoneX.m in Sources */ = {isa = PBXBuildFile; fileRef = 5260856A1FEE2B8C00BE39AE /* IphoneX.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		526085211FEE221F00BE39AE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		526085231FEE221F00BE39AE /* IphoneGen */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = IphoneGen; sourceTree = BUILT_PRODUCTS_DIR; };
+		526085261FEE221F00BE39AE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5260852D1FEE223300BE39AE /* Iphone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone.h; sourceTree = "<group>"; };
+		5260852E1FEE223300BE39AE /* Iphone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone.m; sourceTree = "<group>"; };
+		526085301FEE227D00BE39AE /* Iphone3G.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone3G.h; sourceTree = "<group>"; };
+		526085311FEE227D00BE39AE /* Iphone3G.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone3G.m; sourceTree = "<group>"; };
+		526085331FEE22C100BE39AE /* Iphone3GS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone3GS.h; sourceTree = "<group>"; };
+		526085341FEE22C100BE39AE /* Iphone3GS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone3GS.m; sourceTree = "<group>"; };
+		526085361FEE254400BE39AE /* Iphone4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone4.h; sourceTree = "<group>"; };
+		526085371FEE254400BE39AE /* Iphone4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone4.m; sourceTree = "<group>"; };
+		526085391FEE26A000BE39AE /* Iphone4S.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone4S.h; sourceTree = "<group>"; };
+		5260853A1FEE26A000BE39AE /* Iphone4S.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone4S.m; sourceTree = "<group>"; };
+		5260853C1FEE26D900BE39AE /* Iphone5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone5.h; sourceTree = "<group>"; };
+		5260853D1FEE26D900BE39AE /* Iphone5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone5.m; sourceTree = "<group>"; };
+		5260853F1FEE270600BE39AE /* Iphone5S.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone5S.h; sourceTree = "<group>"; };
+		526085401FEE270600BE39AE /* Iphone5S.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone5S.m; sourceTree = "<group>"; };
+		526085421FEE272700BE39AE /* Iphone5C.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone5C.h; sourceTree = "<group>"; };
+		526085431FEE272700BE39AE /* Iphone5C.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone5C.m; sourceTree = "<group>"; };
+		526085481FEE28FC00BE39AE /* Iphone6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone6.h; sourceTree = "<group>"; };
+		526085491FEE28FC00BE39AE /* Iphone6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone6.m; sourceTree = "<group>"; };
+		5260854B1FEE294A00BE39AE /* Iphone6S.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone6S.h; sourceTree = "<group>"; };
+		5260854C1FEE294A00BE39AE /* Iphone6S.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone6S.m; sourceTree = "<group>"; };
+		526085511FEE29A100BE39AE /* Iphone7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone7.h; sourceTree = "<group>"; };
+		526085521FEE29A100BE39AE /* Iphone7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone7.m; sourceTree = "<group>"; };
+		526085541FEE29B500BE39AE /* IphoneSE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IphoneSE.h; sourceTree = "<group>"; };
+		526085551FEE29B500BE39AE /* IphoneSE.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IphoneSE.m; sourceTree = "<group>"; };
+		5260855A1FEE2A4600BE39AE /* Iphone6Plus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone6Plus.h; sourceTree = "<group>"; };
+		5260855B1FEE2A4600BE39AE /* Iphone6Plus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone6Plus.m; sourceTree = "<group>"; };
+		5260855D1FEE2A8300BE39AE /* Iphone6SPlus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone6SPlus.h; sourceTree = "<group>"; };
+		5260855E1FEE2A8300BE39AE /* Iphone6SPlus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone6SPlus.m; sourceTree = "<group>"; };
+		526085601FEE2AC100BE39AE /* Iphone7Plus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone7Plus.h; sourceTree = "<group>"; };
+		526085611FEE2AC100BE39AE /* Iphone7Plus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone7Plus.m; sourceTree = "<group>"; };
+		526085631FEE2B1300BE39AE /* Iphone8Plus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone8Plus.h; sourceTree = "<group>"; };
+		526085641FEE2B1300BE39AE /* Iphone8Plus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone8Plus.m; sourceTree = "<group>"; };
+		526085661FEE2B4C00BE39AE /* Iphone8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Iphone8.h; sourceTree = "<group>"; };
+		526085671FEE2B4C00BE39AE /* Iphone8.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Iphone8.m; sourceTree = "<group>"; };
+		526085691FEE2B8C00BE39AE /* IphoneX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IphoneX.h; sourceTree = "<group>"; };
+		5260856A1FEE2B8C00BE39AE /* IphoneX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IphoneX.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		526085201FEE221F00BE39AE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5260851A1FEE221E00BE39AE = {
+			isa = PBXGroup;
+			children = (
+				526085251FEE221F00BE39AE /* IphoneGen */,
+				526085241FEE221F00BE39AE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		526085241FEE221F00BE39AE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				526085231FEE221F00BE39AE /* IphoneGen */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		526085251FEE221F00BE39AE /* IphoneGen */ = {
+			isa = PBXGroup;
+			children = (
+				526085261FEE221F00BE39AE /* main.m */,
+				5260852D1FEE223300BE39AE /* Iphone.h */,
+				5260852E1FEE223300BE39AE /* Iphone.m */,
+				526085301FEE227D00BE39AE /* Iphone3G.h */,
+				526085311FEE227D00BE39AE /* Iphone3G.m */,
+				526085331FEE22C100BE39AE /* Iphone3GS.h */,
+				526085341FEE22C100BE39AE /* Iphone3GS.m */,
+				526085361FEE254400BE39AE /* Iphone4.h */,
+				526085371FEE254400BE39AE /* Iphone4.m */,
+				526085391FEE26A000BE39AE /* Iphone4S.h */,
+				5260853A1FEE26A000BE39AE /* Iphone4S.m */,
+				5260853C1FEE26D900BE39AE /* Iphone5.h */,
+				5260853D1FEE26D900BE39AE /* Iphone5.m */,
+				5260853F1FEE270600BE39AE /* Iphone5S.h */,
+				526085401FEE270600BE39AE /* Iphone5S.m */,
+				526085421FEE272700BE39AE /* Iphone5C.h */,
+				526085431FEE272700BE39AE /* Iphone5C.m */,
+				526085481FEE28FC00BE39AE /* Iphone6.h */,
+				526085491FEE28FC00BE39AE /* Iphone6.m */,
+				5260854B1FEE294A00BE39AE /* Iphone6S.h */,
+				5260854C1FEE294A00BE39AE /* Iphone6S.m */,
+				526085511FEE29A100BE39AE /* Iphone7.h */,
+				526085521FEE29A100BE39AE /* Iphone7.m */,
+				526085541FEE29B500BE39AE /* IphoneSE.h */,
+				526085551FEE29B500BE39AE /* IphoneSE.m */,
+				5260855A1FEE2A4600BE39AE /* Iphone6Plus.h */,
+				5260855B1FEE2A4600BE39AE /* Iphone6Plus.m */,
+				5260855D1FEE2A8300BE39AE /* Iphone6SPlus.h */,
+				5260855E1FEE2A8300BE39AE /* Iphone6SPlus.m */,
+				526085601FEE2AC100BE39AE /* Iphone7Plus.h */,
+				526085611FEE2AC100BE39AE /* Iphone7Plus.m */,
+				526085631FEE2B1300BE39AE /* Iphone8Plus.h */,
+				526085641FEE2B1300BE39AE /* Iphone8Plus.m */,
+				526085661FEE2B4C00BE39AE /* Iphone8.h */,
+				526085671FEE2B4C00BE39AE /* Iphone8.m */,
+				526085691FEE2B8C00BE39AE /* IphoneX.h */,
+				5260856A1FEE2B8C00BE39AE /* IphoneX.m */,
+			);
+			path = IphoneGen;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		526085221FEE221F00BE39AE /* IphoneGen */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5260852A1FEE221F00BE39AE /* Build configuration list for PBXNativeTarget "IphoneGen" */;
+			buildPhases = (
+				5260851F1FEE221F00BE39AE /* Sources */,
+				526085201FEE221F00BE39AE /* Frameworks */,
+				526085211FEE221F00BE39AE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IphoneGen;
+			productName = IphoneGen;
+			productReference = 526085231FEE221F00BE39AE /* IphoneGen */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5260851B1FEE221E00BE39AE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = brn.guest;
+				TargetAttributes = {
+					526085221FEE221F00BE39AE = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 5260851E1FEE221E00BE39AE /* Build configuration list for PBXProject "IphoneGen" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5260851A1FEE221E00BE39AE;
+			productRefGroup = 526085241FEE221F00BE39AE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				526085221FEE221F00BE39AE /* IphoneGen */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5260851F1FEE221F00BE39AE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5260854A1FEE28FC00BE39AE /* Iphone6.m in Sources */,
+				5260854D1FEE294A00BE39AE /* Iphone6S.m in Sources */,
+				5260856B1FEE2B8C00BE39AE /* IphoneX.m in Sources */,
+				526085411FEE270600BE39AE /* Iphone5S.m in Sources */,
+				5260852F1FEE223300BE39AE /* Iphone.m in Sources */,
+				5260853E1FEE26D900BE39AE /* Iphone5.m in Sources */,
+				526085651FEE2B1300BE39AE /* Iphone8Plus.m in Sources */,
+				5260855C1FEE2A4600BE39AE /* Iphone6Plus.m in Sources */,
+				526085621FEE2AC100BE39AE /* Iphone7Plus.m in Sources */,
+				526085561FEE29B500BE39AE /* IphoneSE.m in Sources */,
+				526085321FEE227D00BE39AE /* Iphone3G.m in Sources */,
+				526085381FEE254400BE39AE /* Iphone4.m in Sources */,
+				5260855F1FEE2A8300BE39AE /* Iphone6SPlus.m in Sources */,
+				526085351FEE22C100BE39AE /* Iphone3GS.m in Sources */,
+				526085531FEE29A100BE39AE /* Iphone7.m in Sources */,
+				526085271FEE221F00BE39AE /* main.m in Sources */,
+				526085681FEE2B4C00BE39AE /* Iphone8.m in Sources */,
+				526085441FEE272700BE39AE /* Iphone5C.m in Sources */,
+				5260853B1FEE26A000BE39AE /* Iphone4S.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		526085281FEE221F00BE39AE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		526085291FEE221F00BE39AE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5260852B1FEE221F00BE39AE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5260852C1FEE221F00BE39AE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5260851E1FEE221E00BE39AE /* Build configuration list for PBXProject "IphoneGen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				526085281FEE221F00BE39AE /* Debug */,
+				526085291FEE221F00BE39AE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5260852A1FEE221F00BE39AE /* Build configuration list for PBXNativeTarget "IphoneGen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5260852B1FEE221F00BE39AE /* Debug */,
+				5260852C1FEE221F00BE39AE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5260851B1FEE221E00BE39AE /* Project object */;
+}
